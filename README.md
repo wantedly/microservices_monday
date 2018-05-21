@@ -4,6 +4,8 @@ Casual meetup for microservices practitioners
 
 Microservices Mondayは、マイクロサービスに関連する話を気軽に共有する会です。毎週月曜日に開催されます。
 
+社外からの参加を想定しているため、レポジトリはpublicになっています。
+
 次のようなポリシーを掲げて開催しています。
 
 - 事前の準備をがんばらない
