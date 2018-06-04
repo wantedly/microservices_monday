@@ -11,3 +11,5 @@ Microservices Mondayは、マイクロサービスに関連する話を気軽に
 - 毎週やる
 
 話したい・聞きたいネタを書いていきます ✏️
+
+ハッシュタグ [#microservices_monday](https://twitter.com/hashtag/microservices_monday?src=hash)
