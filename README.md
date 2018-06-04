@@ -21,5 +21,5 @@ Microservices Mondayは、マイクロサービスに関連する話を気軽に
 
 Microservices Mondayは以下の集まりを参考にして運営しています。
 
-- [Fronteng Night](https://github.com/wantedly/frontend_night)
+- [Frontend Night](https://github.com/wantedly/frontend_night)
 - [Open Go Friday](https://mercari.connpass.com/event/83766/)
