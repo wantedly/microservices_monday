@@ -12,4 +12,10 @@ Microservices Mondayは、マイクロサービスに関連する話を気軽に
 
 話したい・聞きたいネタを書いていきます ✏️
 
+ネタに困ったときは
+
+- Kubecon/CloudNativeCon のリストを眺める
+- [Microservice Weekly](https://microserviceweekly.com/) を眺める
+
 ハッシュタグ [#microservices_monday](https://twitter.com/hashtag/microservices_monday?src=hash)
+
