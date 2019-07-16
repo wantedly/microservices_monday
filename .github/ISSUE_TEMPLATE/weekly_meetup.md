@@ -1,4 +1,13 @@
-2018-xx-xx 19:00~20:00
+---
+name: Weekly meetup
+about: Weekly meetup
+title: 2019-mm-dd Microservices Monday
+labels: ''
+assignees: ''
+
+---
+
+2019-mm-dd 19:00~20:00
 
 Microservices Mondayは、マイクロサービスに関連する話を気軽に共有する会です。毎週月曜日に開催されます。
 
@@ -18,4 +27,3 @@ Microservices Mondayは、マイクロサービスに関連する話を気軽に
 - [Microservice Weekly](https://microserviceweekly.com/) を眺める
 
 ハッシュタグ [#microservices_monday](https://twitter.com/hashtag/microservices_monday?src=hash)
-
